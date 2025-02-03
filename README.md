@@ -31,12 +31,12 @@
    - 📊 Created interactive visualizations for business insights.
    - 📌 Identified trends to optimize sales strategy.
 
-🔹 **[SQL Data Exploration - Customer Insights](#)**
+🔹 **[SQL Data Exploration - MUSIC STORE](#)**
    - 🛢️ Queried large datasets using advanced SQL techniques.
    - 🔍 Performed joins, aggregations, and window functions.
    - 💡 Derived key insights into customer behavior and retention.
 
-🔹 **[Tableau Dashboard - Business Performance](#)**
+🔹 **[PowerBI Dashboard - HR ANALISIS](#)**
    - 📈 Designed an interactive dashboard to track business KPIs.
    - 🎯 Highlighted trends and actionable insights for decision-makers.
    - 🖥️ Improved data storytelling with dynamic visuals.
