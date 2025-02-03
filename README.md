@@ -1,6 +1,8 @@
 ### Hi there! 👋 I'm Akash Jadhav 🚀
-
 🎯 Aspiring Data Analyst | 📊 Data Enthusiast | 📈 Passionate about Insights
+🎓 Completed my graduation in BSc Computer Science from Savitribai Phule Pune University
+
+
 
 ---
 
@@ -44,6 +46,8 @@
 ---
 
 📩 **Let's Connect!**
+
+
 💼 [Naukri Profile](https://www.naukri.com/mnjuser/homepage?utm_source=google&utm_medium=cpc&utm_campaign=Brand_Login_Register)
 
 
@@ -55,4 +59,5 @@
 ---
 
 💡 **Let's Collaborate & Learn Together!** 🚀
+
 📌 Check out my repositories and feel free to reach out!
