@@ -24,9 +24,7 @@ I love creating content.
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-santosh-jadhav-311b74274/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat&logo=instagram)](https://www.instagram.com/rohan___v18?igsh=enZxYWw1MHNzenN5)
+https://www.linkedin.com/in/akash-jadhav-2857a132b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIadfsKztQmS6LZ12whikMQ%3D%3D
 
 
 # 💻 Tech Stack:
