@@ -12,12 +12,15 @@
 
 ---
 
-📚 **Technical Skills**
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL
-- **Excel:** Pivot Tables, VLOOKUP, Macros, Dashboarding
-- **Statistics:** Hypothesis Testing, Regression Analysis, A/B Testing
+📚 **Technical Skills & Expertise**  
+
+🔹 **Programming:** Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn), SQL, PHP  
+🔹 **Web Development:** HTML, CSS 🌐  
+🔹 **Data Visualization:** Tableau 📊, Power BI, Matplotlib, Seaborn  
+🔹 **Databases:** MySQL, PostgreSQL, Oracle SQL 🛢️  
+🔹 **Excel Mastery:** Pivot Tables, VLOOKUP, Macros, Dashboarding 📑  
+🔹 **Statistical Analysis:** Hypothesis Testing, Regression Analysis, A/B Testing 📈  
+
 
 ---
 
