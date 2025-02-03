@@ -44,7 +44,7 @@
 ---
 
 📩 **Let's Connect!**
-🌐 [Portfolio Website](#) | 💼 [LinkedIn](#) | 📧 [Email](mailto:your.email@example.com)
+🌐 [Portfolio Website](#) | 💼 [LinkedIn](#) | 📧 [Email](akashjadhav00004@gmail.com)
 
 ---
 
