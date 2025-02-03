@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Akash Jadhav 🚀
 
-🎯 **Aspiring Data Analyst | Passionate About Data-Driven Insights**
+🎯 Aspiring Data Analyst | 📊 Data Enthusiast | 📈 Passionate about Insights
 
 ---
 
