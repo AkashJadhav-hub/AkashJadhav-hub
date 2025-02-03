@@ -44,7 +44,7 @@
 ---
 
 📩 **Let's Connect!**
-💼 [Naukri Profile].(https://www.naukri.com/mnjuser/homepage?utm_source=google&utm_medium=cpc&utm_campaign=Brand_Login_Register)
+💼 [Naukri Profile](https://www.naukri.com/mnjuser/homepage?utm_source=google&utm_medium=cpc&utm_campaign=Brand_Login_Register)
 
 
 💼 [LinkedIn](https://www.linkedin.com/in/akash-jadhav-2857a132b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWQrP69l8T1O7kUXonmOJLw%3D%3D)
